@@ -16,7 +16,7 @@ const Footer = () => {
       className="min-h-[55px] w-full px-8 bg-[#2291cc] dark:bg-[#010409] fixed bottom-0 shadow shadow-black flex flex-col-reverse justify-center items-center gap-2"
     >
       <div>
-        <a href="">
+        <a href="https://github.com/AntonioYH/New-Weather-App" target="_blank">
           <i className="text-4xl fa-brands fa-square-github"></i>
         </a>
       </div>
